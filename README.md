@@ -1,6 +1,6 @@
 # Dark Theme For FontForge
 
-A dark theme for [FontForge](http://fontforge.org)
+A darker theme for [FontForge](http://fontforge.org)
 
 <img src="https://raw.githubusercontent.com/mooniak/mac-fontforge/master/_screenshots/screen_1.png" alt>
 
@@ -11,7 +11,7 @@ A dark theme for [FontForge](http://fontforge.org)
 
 ## Installation
 
-1. Copy all the files in the `dark` folder to FontForge´s `pixmaps` directory. This may be at one of the following locations:
+1. Copy all the files in the `pixmaps` folder to FontForge´s `pixmaps` directory. This may be at one of the following locations:
 
 *  `/Applications/FontForge.app/Contents/Resources/opt/local/share/fontforge/pixmaps/` - Mac
 *  `C:\Program Files (x86)\FontForgeBuilds\share\fontforge\pixmaps\` - Windows
