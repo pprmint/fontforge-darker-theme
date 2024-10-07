@@ -248,7 +248,7 @@ Gdraw.GButton.Box.NormalBackground: #4c4c4c
 Gdraw.GButton.Box.DisabledBackground: #404040
 Gdraw.GButton.Box.GradientStartCol: #404040
 Gdraw.GButton.Box.BorderBrightest: #4c4c4c
-Gdraw.GButton.Box.BorderBrighter: #595959
+Gdraw.GButton.Box.BorderBrighter: #666666
 Gdraw.GButton.Box.BorderDarker: #4c4c4c
 Gdraw.GButton.Box.BorderDarkest: #4c4c4c
 Gdraw.GButton.Box.BorderInnerCol: #4c4c4c
@@ -270,8 +270,11 @@ Gdraw.GDefaultButton.Box.BorderBrighter: #78bfff
 Gdraw.GDefaultButton.Box.BorderDarker: #529cde
 Gdraw.GDefaultButton.Box.BorderDarkest: #78bfff
 
+Gdraw.GCancelButton.Box.BorderBrighter: #666666
 
+Gdraw.GColorButton.Box.BorderBrighter: #666666
 
+Gdraw.GDropList.Box.BorderBrighter: #666666
 
 Gdraw.GRadio.Box.PressedBackground: #4f4f4f
 Gdraw.GRadio.Box.GradientStartCol: #4f4f4f
@@ -482,7 +485,6 @@ Gdraw.GMatrixEdit.Box.NormalBackground: #545454
 Gdraw.GMatrixEdit.Box.DisabledBackground: #333333
 Gdraw.GMatrixEdit.Box.BorderBrightest: #999999
 Gdraw.GMatrixEdit.Box.BorderBrighter: #999999
-Gdraw.GMatrixEdit.Box.BorderDarker: #1a1a1a
 Gdraw.GMatrixEdit.Box.BorderType: box
 Gdraw.GMatrixEdit.Box.BorderShape: rect
 Gdraw.GMatrixEdit.Box.BorderWidth: 0
