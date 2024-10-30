@@ -270,11 +270,8 @@ Gdraw.GDefaultButton.Box.BorderBrighter: #78bfff
 Gdraw.GDefaultButton.Box.BorderDarker: #529cde
 Gdraw.GDefaultButton.Box.BorderDarkest: #78bfff
 
-Gdraw.GCancelButton.Box.BorderBrighter: #666666
 
-Gdraw.GColorButton.Box.BorderBrighter: #666666
 
-Gdraw.GDropList.Box.BorderBrighter: #666666
 
 Gdraw.GRadio.Box.PressedBackground: #4f4f4f
 Gdraw.GRadio.Box.GradientStartCol: #4f4f4f
@@ -347,42 +344,43 @@ Gdraw.GVisibilityBoxOff.Box.Padding: 1
 Gdraw.GVisibilityBoxOff.Image: mac_check_off.png
 Gdraw.GVisibilityBoxOff.DisabledImage: mac_check_dis.png
 
+Gdraw.GTextField.Box.BorderOuter: True
+Gdraw.GTextField.Box.GradientBG: True
 Gdraw.GTextField.Box.NormalForeground: #ffffff
 Gdraw.GTextField.Box.NormalBackground: #1a1a1a
 Gdraw.GTextField.Box.DisabledBackground: #262626
-Gdraw.GTextField.Box.GradientStartCol: #4c4c4c
+Gdraw.GTextField.Box.GradientStartCol: #262626
+Gdraw.GTextField.Box.BorderBrightest: #666666
 Gdraw.GTextField.Box.BorderBrighter: #737373
-Gdraw.GTextField.Box.BorderDarker: #ffffff
-Gdraw.GTextField.Box.BorderDarkest: #737373
+Gdraw.GTextField.Box.BorderDarker: #4c4c4c
+Gdraw.GTextField.Box.BorderDarkest: #4c4c4c
 Gdraw.GTextField.Box.BorderInnerCol: #ffffff
+Gdraw.GTextField.Box.BorderOuterCol: #262626
+Gdraw.GTextField.Box.BorderType: box
+Gdraw.GTextField.Box.BorderShape: roundrect
 Gdraw.GTextField.Box.Padding: 2
+Gdraw.GTextField.Box.Radius: 2
 Gdraw.GTextField.Font: 400 10pt Inter Variable, Inter, system-ui, Arial Helvetica Neue
 
+Gdraw.GComboBox.Box.BorderBrightest: #4c4c4c
+Gdraw.GComboBox.Box.BorderBrighter: #4c4c4c
 
-Gdraw.GComboBoxMenu.Box.BorderOuter: True
-Gdraw.GComboBoxMenu.Box.ShadowOuter: True
-Gdraw.GComboBoxMenu.Box.GradientBG: True
-Gdraw.GComboBoxMenu.Box.NormalBackground: #f5f5f5
-Gdraw.GComboBoxMenu.Box.GradientStartCol: #ededeb
-Gdraw.GComboBoxMenu.Box.BorderBrightest: #908f8e
-Gdraw.GComboBoxMenu.Box.BorderBrighter: #908f8e
-Gdraw.GComboBoxMenu.Box.BorderDarker: #908f8e
-Gdraw.GComboBoxMenu.Box.BorderDarkest: #908f8e
-Gdraw.GComboBoxMenu.Box.BorderInnerCol: #f9f8f7
-Gdraw.GComboBoxMenu.Box.BorderOuterCol: #dddcdb
+Gdraw.GComboBoxMenu.Box.NormalBackground: #4c4c4c
+Gdraw.GComboBoxMenu.Box.GradientStartCol: #404040
+Gdraw.GComboBoxMenu.Box.BorderBrighter: #666666
+Gdraw.GComboBoxMenu.Box.BorderWidth: 1
 Gdraw.GComboBoxMenu.Box.Padding: 2
-Gdraw.GComboBoxMenu.Box.Radius: 6
 
+Gdraw.GNumericField.Box.BorderBrightest: #4c4c4c
+Gdraw.GNumericField.Box.BorderBrighter: #4c4c4c
 
-Gdraw.GNumericFieldSpinner.Box.NormalBackground: #f5f5f5
-Gdraw.GNumericFieldSpinner.Box.GradientStartCol: #ededed
 Gdraw.GNumericFieldSpinner.Box.BorderBrightest: #908f8e
 Gdraw.GNumericFieldSpinner.Box.BorderBrighter: #908f8e
 Gdraw.GNumericFieldSpinner.Box.BorderDarker: #908f8e
 Gdraw.GNumericFieldSpinner.Box.BorderDarkest: #908f8e
 Gdraw.GNumericFieldSpinner.Box.BorderInnerCol: #f9f8f7
 Gdraw.GNumericFieldSpinner.Box.BorderOuterCol: #dddcdb
-Gdraw.GNumericFieldSpinner.Box.BorderType: none
+Gdraw.GNumericFieldSpinner.Box.BorderType: box
 Gdraw.GNumericFieldSpinner.Box.BorderWidth: 0
 Gdraw.GNumericFieldSpinner.Box.Padding: 2
 Gdraw.GNumericFieldSpinner.Box.Radius: 6
